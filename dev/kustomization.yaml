@@ -9,7 +9,7 @@ images:
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
-  - "../"
+  - "../base"
 
 # Appliquer les patches (modifications)
 patches:
