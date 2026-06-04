@@ -2,4 +2,4 @@
 # Accède directement au chemin /spec/replicas et le remplace par 3
 - op: replace
   path: /spec/replicas
-  value: 5
+  value: 2
