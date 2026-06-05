@@ -7,7 +7,7 @@ images:
   newName: ghcr.io/srouabeh-ext/spring-petclinic
 - name: spring-petclinic
   newName: ghcr.io/srouabeh-ext/spring-petclinic
-  newTag: 95caa08fcefcec546722698133bf9c5ab7480599
+  newTag: 3ed80dc55967aa0b4634e625c2eb3857022e0bb1
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
