@@ -5,7 +5,6 @@ namespace: tp7-kustomize
 images:
 - name: ghcr.io/srouabeh-ext/spring-petclinic
   newName: ghcr.io/srouabeh-ext/spring-petclinic
-  newTag: 4.0.1
 - name: spring-petclinic
   newName: ghcr.io/srouabeh-ext/spring-petclinic
   newTag: b7a8907f8393e58925d84f2dbc0b356e70b44f68
